@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Privacy Policy</title>
+</head>
+<body style="font-family: Arial; max-width: 800px; margin: auto; padding: 20px;">
+
+<h1>Privacy Policy</h1>
+
+<p>Effective date: 2026</p>
+
+<p>This Privacy Policy describes how your information is handled in the mobile game <b>The T Path Endless Runner</b> developed by <b>TeosStudio</b>.</p>
+
+<h2>1. Information We Collect</h2>
+<p>We do not collect personal data such as your name, email address, or phone number.</p>
+
+<p>However, the app uses third-party services that may collect information used to identify you.</p>
+
+<h2>2. Third-Party Services</h2>
+<p>The app uses the following third-party services:</p>
+<ul>
+<li>Unity Ads</li>
+<li>IronSource (LevelPlay)</li>
+<li>Google AdMob</li>
+<li>Google Play Billing (In-App Purchases)</li>
+</ul>
+
+<p>These services may collect data such as:</p>
+<ul>
+<li>Device information (model, OS version)</li>
+<li>IP address</li>
+<li>Advertising ID</li>
+<li>App usage data</li>
+<li>Purchase information (processed securely by Google Play)</li>
+</ul>
+
+<p>This data is used for:</p>
+<ul>
+<li>Showing ads</li>
+<li>Improving ad performance</li>
+<li>Processing purchases</li>
+<li>Preventing fraud</li>
+</ul>
+
+<h2>3. In-App Purchases</h2>
+<p>The app offers in-app purchases. All payments are processed securely through Google Play. We do not store or have access to your payment details such as credit card information.</p>
+
+<h2>4. How We Use Information</h2>
+<p>We do not use your data directly. All data processing is handled by third-party services listed above.</p>
+
+<h2>5. Data Sharing</h2>
+<p>We do not sell personal data. Data may be processed by third-party providers such as advertising networks and Google Play services.</p>
+
+<h2>6. Children’s Privacy</h2>
+<p>This app is not directed to children under the age of 13. We do not knowingly collect personal data from children.</p>
+
+<h2>7. Security</h2>
+<p>We value your trust in providing your information. However, no method of transmission over the internet is 100% secure.</p>
+
+<h2>8. Changes to This Privacy Policy</h2>
+<p>We may update our Privacy Policy from time to time. Changes will be posted on this page.</p>
+
+<h2>9. Contact</h2>
+<p>If you have any questions, contact us at:</p>
+<p>Email: teogamesudiodev@gmail.com</p>
+
+</body>
+</html>
